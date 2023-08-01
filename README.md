@@ -1,2 +1,2 @@
-# Potato Leaf Disease Ditection
-Algorithm: CNN (Convolutional Neural Network)
+# Potato Leaf Disease Detection
+# Algorithm: CNN (Convolutional Neural Network)
