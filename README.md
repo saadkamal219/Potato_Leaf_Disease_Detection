@@ -1,1 +1,2 @@
-# Machine_Learning_Projects
+# Potato Leaf Disease Ditection
+Algorithm: CNN (Convolutional Neural Network)
